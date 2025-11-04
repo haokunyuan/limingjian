@@ -7,28 +7,37 @@ nav: true
 nav_order: 2
 ---
 ## Working Paper
+
 ##[Do People Reduce Their Income for CHIP Eligibility? Evidence from Tax Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5296310)
+
 short description
+
 - Presented at:
+
 ## Does Medicaid Expansion Lead to Income Adjustment? Evidence from the Survey of Income
+
 Program Participation
+
 short description
 
 ## Work in Progress
 
 ## The Elephant in the Room. What Has Been Missing in Determining Medicaid Eligibility?
+
 short description
+
 ##  Does Tracking Increase Grades Disparities?
+
 short description
 
-#<!-- _pages/publications.md -->
+<!-- _pages/publications.md -->
 
-#<!-- Bibsearch Feature -->
+<!-- Bibsearch Feature -->
 
-#{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %} -->
 
-#<div class="publications">
+<!-- <div class="publications"> -->
 
-#{% bibliography %}
+<!-- {% bibliography %} -->
 
-#</div>
+<!-- </div> -->
